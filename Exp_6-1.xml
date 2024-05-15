@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Exp_6.xsl"?>
+<class>
+    <student>
+        <name>Mohit Kumar</name>
+        <enroll>00496307222</enroll>
+        <age>22</age>
+    </student>
+    <student>
+        <name>Abhay Semwal</name>
+        <enroll>00196307222</enroll>
+        <age>21</age>
+    </student>
+    <student>
+        <name>Rohan Gupta</name>
+        <enroll>00396307222</enroll>
+        <age>20</age>
+    </student>
+    <student>
+        <name>John Smith</name>
+        <enroll>00596307222</enroll>
+        <age>23</age>
+    </student>
+    <student>
+        <name>Alice Johnson</name>
+        <enroll>00696307222</enroll>
+        <age>22</age>
+    </student>
+    <student>
+        <name>Emily Brown</name>
+        <enroll>00796307222</enroll>
+        <age>21</age>
+    </student>
+    <student>
+        <name>Michael Davis</name>
+        <enroll>00896307222</enroll>
+        <age>20</age>
+    </student>
+    <student>
+        <name>Sarah Wilson</name>
+        <enroll>00996307222</enroll>
+        <age>19</age>
+    </student>
+    <student>
+        <name>James Miller</name>
+        <enroll>01096307222</enroll>
+        <age>24</age>
+    </student>
+</class>
