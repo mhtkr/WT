@@ -1,0 +1,68 @@
+body
+{
+    margin: 0;
+    background-color: #FFCAD4;
+    background-image: url(Exp-5_img2.jpg);
+    
+ 
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(Exp-5_img2.jpg);
+    filter: blur(10px);
+    z-index: -1;
+}
+
+#title
+{
+    background-color: #FBA834;
+    height: 20%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 20px 20px;
+    color: white;
+    filter: opacity(80%);
+}
+#title h1
+{
+    text-align: center;
+    font-size: 7vh;
+}
+#foto
+{
+    background-color: #333A73;
+    padding: 0;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+#foto p
+{
+    margin: 15px;
+    text-align: justify;
+    font-size: 1.9vh;
+}
+#foto img
+{
+    border-radius:20px;
+    max-width: 33%;
+}
+footer
+{
+    border-radius: 20px 20px 0 0 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    filter: opacity(80%);
+}
